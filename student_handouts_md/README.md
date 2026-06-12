@@ -14,6 +14,12 @@ This folder contains Markdown versions of Python beginner student handouts.
 - [Lesson 4b 延伸：複合運算子 Compound Assignment](./Lesson_04b_Compound_Assignment.md)
 - [Lesson 4c 延伸：不同資料型態的比較 Data Type Comparison](./Lesson_04c_Data_Type_Comparison.md)
 - [Lesson 5 格式化輸出 Format Output](./Lesson_05_Format_Output.md)
+- [Lesson 6 條件判斷 Conditionals](./Lesson_06_Conditionals.md)
+- [Lesson 7 迴圈 Loops](./Lesson_07_Loops.md)
+- [Lesson 8 函式 Functions](./Lesson_08_Functions.md)
+- [Lesson 9 串列 Lists](./Lesson_09_Lists.md)
+- [Lesson 10 元組與字典 Tuples and Dictionaries](./Lesson_10_Tuples_Dictionaries.md)
+- [Lesson 11 物件與類別 Objects and Classes](./Lesson_11_Objects_Classes.md)
 
 ## Image Folder Structure
 
@@ -24,6 +30,12 @@ Markdown images are organized under:
 - `student_handouts_md/images/Lesson_03_Sequence/`
 - `student_handouts_md/images/Lesson_04_Operators/`
 - `student_handouts_md/images/Lesson_05_Format_Output/`
+- `student_handouts_md/images/Lesson_06_Conditionals/`
+- `student_handouts_md/images/Lesson_07_Loops/`
+- `student_handouts_md/images/Lesson_08_Functions/`
+- `student_handouts_md/images/Lesson_09_Lists/`
+- `student_handouts_md/images/Lesson_10_Tuples_Dictionaries/`
+- `student_handouts_md/images/Lesson_11_Objects_Classes/`
 
 ## Folder Notes
 
