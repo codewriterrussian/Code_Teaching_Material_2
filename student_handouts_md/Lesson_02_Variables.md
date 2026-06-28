@@ -12,7 +12,9 @@
 
 程式需要資料時，就可以用箱子的名字把資料拿出來。
 
-![ChatGPT Image 15 мая 2026 г., 14_26_55.png](images/Lesson_02_Variables/lesson2_img2.png)
+<p align="center">
+  <img src="images/Lesson_02_Variables/Lesson_02_Variables_img1.png" alt="ChatGPT Image 15 мая 2026 г., 14_26_55.png" width="650">
+</p>
 
 在 Python 中，建立變數的方法是：`變數名稱 = 值`。
 
@@ -25,7 +27,9 @@ variable_name = value
 x = 10
 ```
 
-![ChatGPT Image 15 мая 2026 г., 14_26_55 — копия.png](images/Lesson_02_Variables/lesson2_img3.png)
+<p align="center">
+  <img src="images/Lesson_02_Variables/Lesson_02_Variables_img2.png" alt="ChatGPT Image 15 мая 2026 г., 14_26_55 — копия.png" width="650">
+</p>
 
 ### 範例 Ex：數字變數
 
@@ -57,7 +61,9 @@ print(x)
 
 不同型態可以做的事情不一樣，就像水杯、便當盒、鉛筆盒都能裝東西，但適合裝的內容不同。
 
-![ChatGPT Image 15 мая 2026 г., 14_36_19.png](images/Lesson_02_Variables/lesson2_img1.png)
+<p align="center">
+  <img src="images/Lesson_02_Variables/Lesson_02_Variables_img3.png" alt="ChatGPT Image 15 мая 2026 г., 14_36_19.png" width="650">
+</p>
 
 | 型態 | Python 名稱 | 例子 | 生活化想像 |
 | --- | --- | --- | --- |

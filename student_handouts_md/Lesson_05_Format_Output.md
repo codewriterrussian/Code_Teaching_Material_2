@@ -49,7 +49,9 @@
 
 在程式題目中，輸出結果常常需要完全一樣。
 
-![ChatGPT Image 21 мая 2026 г., 13_10_39.png](images/Lesson_05_Format_Output/Lesson_05_Format_Output_img1.png)
+<p align="center">
+  <img src="images/Lesson_05_Format_Output/Lesson_05_Format_Output_img1.png" alt="ChatGPT Image 21 мая 2026 г., 13_10_39.png" width="650">
+</p>
 
 例如：
 
@@ -118,7 +120,9 @@
 | `\ooo` | 八進位字元，例如 `\101` |
 | `\xhh` | 十六進位字元，例如 `\x41` |
 
-![ChatGPT Image 21 мая 2026 г., 13_12_52.png](images/Lesson_05_Format_Output/Lesson_05_Format_Output_img2.png)
+<p align="center">
+  <img src="images/Lesson_05_Format_Output/Lesson_05_Format_Output_img2.png" alt="ChatGPT Image 21 мая 2026 г., 13_12_52.png" width="650">
+</p>
 
 範例：
 
@@ -141,7 +145,9 @@ Python
 
 `%` 格式化是一種比較舊但仍常見的格式化方式。
 
-![ChatGPT Image 21 мая 2026 г., 13_16_10.png](images/Lesson_05_Format_Output/Lesson_05_Format_Output_img3.png)
+<p align="center">
+  <img src="images/Lesson_05_Format_Output/Lesson_05_Format_Output_img3.png" alt="ChatGPT Image 21 мая 2026 г., 13_16_10.png" width="650">
+</p>
 
 常見格式符號：
 
@@ -169,7 +175,9 @@ print("%d%s" % (20, "Hi"))
 
 ### 4. `%f` 與小數位數
 
-![ChatGPT Image 21 мая 2026 г., 13_18_26.png](images/Lesson_05_Format_Output/Lesson_05_Format_Output_img4.png)
+<p align="center">
+  <img src="images/Lesson_05_Format_Output/Lesson_05_Format_Output_img4.png" alt="ChatGPT Image 21 мая 2026 г., 13_18_26.png" width="650">
+</p>
 
 ```python
 print("%f" % 5)
